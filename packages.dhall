@@ -18,7 +18,7 @@ in upstream
         "tailrec"
       ]
       , repo = "https://github.com/leobm/purescript-simple-ulid"
-      , version = "824734f9a64a698a0276f0ebaf33eaece04a9e1c"
+      , version = "2ef4deb0a9da8c6b01b598b8516e05006802acef"
       }
 
 
